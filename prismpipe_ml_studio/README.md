@@ -97,10 +97,6 @@ curl -X POST "http://127.0.0.1:8000/api/pipeline/execute" \
 }
 ```
 
-## Resume-Ready Highlight ✨
-
-- Built a no-code visual ML pipeline platform with support for 5 algorithm categories and guided onboarding tutorials.
-- Demonstrated setup-time savings model targeting ~70% improvement compared to manual notebook workflows in peer trials.
 
 ## Frontend Note 🎨
 
